@@ -3,7 +3,7 @@
 
 A small example of how to use angualar2-ladda with webpack 2
 
-BROKEN!!!!
+BROKEN!!!! Checkout this branch to reproduce the issue: "https://github.com/Ks89/angular2rc6-ladda-webpack2-example/tree/broken"
 
 
 ##How to use it
