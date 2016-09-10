@@ -6,7 +6,7 @@ import { HttpModule } from '@angular/http';
 import ApplicationComponent from './application/application';
 import HomeComponent from './pages/home/home';
 
-// import { LaddaModule } from 'angular2-ladda';
+import { LaddaModule } from 'angular2-ladda';
 
 @NgModule({
   imports: [
@@ -15,7 +15,7 @@ import HomeComponent from './pages/home/home';
             RouterModule.forRoot([
               {path: '', component: HomeComponent}
             ]),
-  //  LaddaModule
+   LaddaModule
   ],
   declarations: [
     ApplicationComponent,

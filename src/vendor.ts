@@ -11,4 +11,4 @@ import '@angular/router';
 // RxJS - comment it our if not using or import specific functions
 // import 'rxjs';
 
-// import 'angular2-ladda';
+import 'angular2-ladda';
